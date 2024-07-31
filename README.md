@@ -24,6 +24,7 @@ You need a Google account and a project to which the billing account is linked.
 There are two ways to launch a VM in GCP. Either start Compute Engine directly and configure it using an SSH client. Alternatively, and what we use here, we use Vertex AI's Managed Notebooks. This allows for the building and execution of the docking image, but also for code development, which is very convenient.
 
 Initial installation steps:
+- Enable GCP Translation API and Language API
 - Navigate to Vertex AI / Workbench / User Managed Notebooks
 - Press “Create new instance”
 - Change the values:
