@@ -1,4 +1,4 @@
-# Dockerize the Huggingface LLM model with Streamlit and run it on GCP
+# Dockerize any Huggingface LLM model and run it on GCP
 
 In this repository, we show the process and files of how to run the open source Arabic Jais-13b-Chat in a container on GCP. The user interface that works in the second container is built with Streamlit.
 
