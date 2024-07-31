@@ -8,7 +8,7 @@ In this repository, we show the process and files of how to run the open source 
 
 The goals are:
 
-- Use Arabic [Jais-13b-Chat](https://huggingface.co/core42/jais-13b) 
+- Use Arabic [Jais-13b-Chat](https://huggingface.co/core42/jais-13b-chat) 
 - Chat UI is built with Streamlit
 - The architecture is loosely coupled, both LLM and the user interface work in different containers. The Fast API is used to connect containers.
 - Both containers run in the same VM
